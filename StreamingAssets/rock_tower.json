@@ -1,7 +1,0 @@
-{
-	"type": "rock",
-	"cost": 10,
-	"range": 15,
-	"damage": 40,
-	"fire_rate": 1
-}
