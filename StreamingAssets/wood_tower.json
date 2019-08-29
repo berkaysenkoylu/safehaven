@@ -1,0 +1,7 @@
+{
+	"type": "wood",
+	"cost": 10,
+	"range": 12,
+	"damage": 20,
+	"fire_rate": 1
+}
